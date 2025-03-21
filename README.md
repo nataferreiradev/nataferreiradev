@@ -3,13 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## Software Engineer
 
-Currently, I am working as a mobile developer with flutter and oracle developer.
+Currently, I am working as a mid-level mobile developer and oracle developer.
 I'm learning and trying to become a backend developer.
 
 *   🌍  I'm based in Brazil:SP:Birigui
 *   ✉️  You can contact me at [nataferreira929@hotmail.com](mailto:nataferreira929@hotmail.com)
 *   🚀  I'm currently working on [CompuSoftware](http://www.cscompusoftware.com.br/)
 *   🧠  I'm learning Go and Java
+*   You can see my portfolio [nataFerreiraDev](https://nataferreiradev.github.io/portfolio/)
 ----
 ## Skills 
 ### Back-end
@@ -22,9 +23,6 @@ I'm learning and trying to become a backend developer.
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
 
 ---
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nataferreiradev&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
-</p>
 
 ## Socials
 <p align="left">
