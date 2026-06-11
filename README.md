@@ -8,7 +8,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Based_in-Birigui%2C_SP%2C_Brazil-009C3B?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Working_at-CompuSoftware-0077B5?style=flat-square&logo=briefcase&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Backend_Development-orange?style=flat-square" />
 </p>
 
