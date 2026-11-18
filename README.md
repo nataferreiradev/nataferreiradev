@@ -1,84 +1,81 @@
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
-
-# Natã Nogueira Ferreira
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C2E0&center=true&vCenter=true&width=435&lines=Mid-Level+Mobile+Developer;Oracle+Developer;Backend+Developer+in+progress;Go+%26+Java+Learner)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2E0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nat%C3%A3+%F0%9F%91%8B;Mobile+Developer+%7C+Oracle+Developer;Moving+into+Backend+with+Go+%26+Java" alt="Typing SVG" />
+**Software engineer from Birigui, SP 🇧🇷 — building mobile apps today, growing into backend.**
+ 
 <p>
-  <img src="https://img.shields.io/badge/Based_in-Birigui%2C_SP%2C_Brazil-009C3B?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Backend_Development-orange?style=flat-square" />
+  <a href="https://nataferreiradev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nat%C3%A3-nogueira-ferreira-631191263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nataferreira929@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
-
+<img src="https://img.shields.io/badge/Based_in-Birigui%2C_SP%2C_Brazil-009C3B?style=flat-square&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Backend_Development-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_to-Backend_opportunities-success?style=flat-square" />
 </div>
-
 ---
-
+ 
 ## 👨‍💻 About Me
-
-Hi! I'm **Natã**, a software engineer based in **Birigui, São Paulo, Brazil**. I currently work as a **mid-level mobile developer** and **Oracle developer** at [CompuSoftware](http://www.cscompusoftware.com.br/), while actively transitioning into backend development.
-
-- 🚀 Currently deepening my backend skills with **Go** and **Java**
-- 📱 Experienced with **Flutter & Dart** for cross-platform mobile apps
-- 🗄️ Database background in **Oracle, MySQL and SQLite**
-- 🌱 Always learning and building
-- 📬 Reach me at: [nataferreira929@hotmail.com](mailto:nataferreira929@hotmail.com)
-- 🌐 Portfolio: [nataFerreiraDev](https://nataferreiradev.github.io/portfolio/)
-
+ 
+I'm a **mid-level mobile developer** and **Oracle developer** at [CompuSoftware](http://www.cscompusoftware.com.br/), and I'm actively transitioning into **backend development**.
+ 
+- 📱 **Day to day:** cross-platform apps with **Flutter & Dart**
+- 🗄️ **Data layer:** solid background in **Oracle, MySQL and SQLite**
+- 🚀 **Now learning:** backend with **Go** and **Java**
+- 🌱 **Mindset:** always learning, always building
 ---
-
+ 
+## 🧭 Current Focus
+ 
+| Area | What I'm doing |
+|------|----------------|
+| 🔧 Backend | Building APIs and services with Go and Java |
+| 📱 Mobile | Shipping production Flutter apps |
+| 🗄️ Databases | Writing and tuning Oracle / SQL code |
+ 
+---
+ 
 ## 🛠️ Tech Stack
-
-### 📱 Mobile
+ 
+<div align="center">
+**📱 Mobile**<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🔧 Back-end
+ 
+**🔧 Backend**<br>
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🗄️ Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ 
+**🗄️ Databases**<br>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🧰 Other
+ 
+**🧰 Other**<br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
+</div>
 ---
-
+ 
+## 📌 Featured Projects
+ 
+<!-- Pin your best repos on your profile and/or list them here. Example:
+### [project-name](https://github.com/nataFerreiraDev/project-name)
+One-line description of what it does and why it matters.
+`Go` `PostgreSQL` `Docker`
+-->
+ 
+> Check my pinned repositories above and my [portfolio](https://nataferreiradev.github.io/portfolio/) for more.
+ 
+---
+ 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nataFerreiraDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataFerreiraDev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nataFerreiraDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataFerreiraDev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=nataFerreiraDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nataFerreiraDev&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/natã-nogueira-ferreira-631191263/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nataferreira929@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://nataferreiradev.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nataFerreiraDev&color=0e75b6&style=flat-square&label=Profile+Views" />
-</div>
