@@ -1,7 +1,6 @@
-README · MD
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2E0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nat%C3%A3+%F0%9F%91%8B;Mobile+Developer+%7C+Oracle+Developer;Moving+into+Backend+with+Go+%26+Java" alt="Typing SVG" />
-<b>Software engineer from Birigui, SP 🇧🇷 — building mobile apps today, growing into backend.</b>
+<br><b>Software engineer 🇧🇷 — building mobile apps today, growing into backend.</b>
  
 <p>
   <a href="https://nataferreiradev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -12,7 +11,6 @@ README · MD
 <img src="https://img.shields.io/badge/Focus-Backend_Development-orange?style=flat-square" />
 <img src="https://img.shields.io/badge/Open_to-Backend_opportunities-success?style=flat-square" />
 </div>
----
  
 ## 👨‍💻 About Me
  
@@ -32,7 +30,6 @@ I'm a **mid-level mobile developer** and **Oracle developer** at [CompuSoftware]
 | 📱 Mobile | Shipping production Flutter apps |
 | 🗄️ Databases | Writing and tuning Oracle / SQL code |
  
----
  
 ## 🛠️ Tech Stack
  
@@ -57,7 +54,6 @@ I'm a **mid-level mobile developer** and **Oracle developer** at [CompuSoftware]
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
  
 </div>
----
  
 ## 📌 Featured Projects
  
@@ -69,7 +65,6 @@ One-line description of what it does and why it matters.
  
 > Check my pinned repositories above and my [portfolio](https://nataferreiradev.github.io/portfolio/) for more.
  
----
  
 ## 📊 GitHub Stats
  
@@ -79,7 +74,6 @@ One-line description of what it does and why it matters.
   <br>
   <img src="https://streak-stats.demolab.com?user=nataFerreiraDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
----
  
 ## 🤝 Let's Connect
  
