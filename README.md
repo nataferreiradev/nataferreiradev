@@ -80,3 +80,13 @@ One-line description of what it does and why it matters.
   <img src="https://streak-stats.demolab.com?user=nataFerreiraDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 ---
+ 
+## 🤝 Let's Connect
+ 
+Open to talk about backend, mobile, or anything software. The fastest way to reach me is by email: <a href="mailto:nataferreira929@hotmail.com"><b>nataferreira929@hotmail.com</b></a>
+ 
+<div align="center">
+<sub>⭐ Thanks for stopping by!</sub><br>
+<img src="https://komarev.com/ghpvc/?username=nataFerreiraDev&color=0e75b6&style=flat-square&label=Profile+Views" />
+ 
+</div>
